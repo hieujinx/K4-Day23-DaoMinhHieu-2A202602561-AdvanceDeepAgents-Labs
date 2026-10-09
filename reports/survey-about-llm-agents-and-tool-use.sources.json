@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2308.03427",
+    "url": "https://arxiv.org/abs/2308.03427",
+    "title": "TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents",
+    "date": "2023-08-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "anthropic-agents",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "title": "Building Effective AI Agents - Anthropic",
+    "date": "2024-12-19",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "aws-agent-frameworks",
+    "url": "https://aws.amazon.com/marketplace/build-learn/ai-agent-learning-series/agent-frameworks-building-blocks",
+    "title": "AI agent frameworks & building blocks - AWS",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2605.02964",
+    "url": "https://huggingface.co/papers/2605.02964",
+    "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+    "date": "2026-05-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2602.21320",
+    "url": "https://huggingface.co/papers/2602.21320",
+    "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+    "date": "2026-02-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2601.01498",
+    "url": "https://huggingface.co/papers/2601.01498",
+    "title": "From Failure to Mastery: Generating Hard Samples for Tool-use Agents",
+    "date": "2026-01-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2508.17281",
+    "url": "https://huggingface.co/papers/2508.17281",
+    "title": "From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users",
+    "date": "2025-10-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2606.22741",
+    "url": "https://huggingface.co/papers/2606.22741",
+    "title": "GRADE: Graph Representation of LLM Agent Dependency and Execution",
+    "date": "2026-06-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "octotools",
+    "url": "https://aclanthology.org/2026.acl-long.1.pdf",
+    "title": "OctoTools: A Multi-Agent Framework with Extensible Tools for Complex Reasoning",
+    "date": "2026-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "agentpatternscatalog-toolcombinations",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-combinations",
+    "title": "Tool combinations",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "lumer2026-toolagentselection",
+    "url": "https://exa.ai/library/publication/rlwfl2kw13v",
+    "title": "Tool and Agent Selection for Large Language Model Agents in Production: A Survey",
+    "date": "2026-05-08",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "kimi2026-llmagenttools",
+    "url": "https://www.kimi.ai/resources/llm-agent",
+    "title": "What Is an LLM Agent? Architecture, Tools, Frameworks ...",
+    "date": "2026-07-20",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "avichala2025-llmagenttools",
+    "url": "https://www.avichala.com/blog/how-llm-agents-use-tools",
+    "title": "How LLM Agents Use Tools | Avichala GenAI Insights & Blog",
+    "date": "2025-11-11",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "agentpatternscatalog2026-tooluse",
+    "url": "https://www.agentpatternscatalog.org/patterns/tool-use/",
+    "title": "Tool Use 6 Agent Patterns Catalog",
+    "date": "2026-05-21",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2607.05775",
+    "url": "https://arxiv.org/abs/2607.05775",
+    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+    "date": "2026-07-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "springer-llm-tool-learning-survey",
+    "url": "https://link.springer.com/article/10.1007/s41019-025-00296-9",
+    "title": "LLM-Based Agents for Tool Learning: A Survey | Data Science and Engineering | Springer Nature Link",
+    "date": "2025-06-26",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "ace-llm-agent-tool-use",
+    "url": "https://ace.ewapub.com/article/view/28954",
+    "title": "Empowering LLM-based Agents: Methods and Challenges in Tool Use",
+    "date": "2025-11-05",
+    "source": "web"
+  }
+]

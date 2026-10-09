@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2604.06339",
+    "url": "https://arxiv.org/abs/2604.06339",
+    "title": "Evolution of Video Generative Foundations",
+    "date": "2026-04-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2401.03048",
+    "url": "https://arxiv.org/abs/2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "date": "2024-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "cvpr2026f_frameDit",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Le_FrameDiT_Diffusion_Transformer_with_Matrix_Attention_for_Efficient_Video_Generation_CVPRF_2026_paper.pdf",
+    "title": "FrameDiT: Diffusion Transformer with Matrix Attention for Efficient Video Generation",
+    "date": "2026-06-01",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2405.20279",
+    "url": "https://huggingface.co/papers/2405.20279",
+    "title": "CV-VAE: A Compatible Video VAE for Latent Generative Video Models",
+    "date": "2024-05-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2601.01568",
+    "url": "https://arxiv.org/abs/2601.01568",
+    "title": "MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning",
+    "date": "2026-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2511.21780",
+    "url": "https://arxiv.org/abs/2511.21780",
+    "title": "3MDiT: Unified Tri-Modal Diffusion Transformer for Text-Driven Synchronized Audio-Video Generation",
+    "date": "2025-11-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2601.03233",
+    "url": "https://arxiv.org/abs/2601.03233",
+    "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
+    "date": "2026-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "video-bench-cvpr2025",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Video-Bench_Human-Aligned_Video_Generation_Benchmark_CVPR_2025_paper.pdf",
+    "title": "Video-Bench: Human-Aligned Video Generation Benchmark",
+    "date": "2025-06-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "t2v-compbench-cvpr2025",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_T2V-CompBench_A_Comprehensive_Benchmark_for_Compositional_Text-to-video_Generation_CVPR_2025_paper.pdf",
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "date": "2025-06-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2411.13503",
+    "url": "https://arxiv.org/abs/2411.13503",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "2024-11-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "msvbench-acl2026",
+    "url": "https://aclanthology.org/2026.findings-acl.1203.pdf",
+    "title": "MSVBench: Towards Human-Level Evaluation of Multi-Shot Video Generation",
+    "date": "2026-01-01",
+    "source": "web"
+  }
+]

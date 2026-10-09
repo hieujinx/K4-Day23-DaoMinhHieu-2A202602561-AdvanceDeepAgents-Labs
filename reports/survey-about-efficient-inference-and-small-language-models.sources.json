@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/abs/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-04-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2411.02359",
+    "url": "https://huggingface.co/papers/2411.02359",
+    "title": "DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution",
+    "date": "2024-11-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2503.18908",
+    "url": "https://huggingface.co/papers/2503.18908",
+    "title": "FFN Fusion: Rethinking Sequential Computation in Large Language Models",
+    "date": "2025-03-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2410.20011",
+    "url": "https://arxiv.org/abs/2410.20011",
+    "title": "A Survey on Small Language Models",
+    "date": "2024-10-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2505.19529",
+    "url": "https://arxiv.org/abs/2505.19529",
+    "title": "Small Language Models: Architectures, Techniques, Evaluation",
+    "date": "2025-05-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+    "date": "2025-02-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2503.09114",
+    "url": "https://arxiv.org/abs/2503.09114",
+    "title": "Feasibility and Trade-offs of Language Model Inference on Edge Devices",
+    "date": "2025-03-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2026.acl-industry.123",
+    "url": "https://aclanthology.org/2026.acl-industry.123",
+    "title": "Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms",
+    "date": "2026-01-15",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2408.00724",
+    "url": "https://huggingface.co/papers/2408.00724",
+    "title": "An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models",
+    "date": "2024-08-01",
+    "source": "hf-search"
+  }
+]

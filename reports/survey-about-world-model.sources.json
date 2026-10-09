@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2607.06401",
+    "url": "https://arxiv.org/abs/2607.06401",
+    "title": "A Definition and Roadmap for World Models",
+    "date": "2026-07-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "dingjingtao-2025-survey",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/abs/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "2026-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "nvidia-glossary",
+    "url": "https://www.nvidia.com/en-us/glossary/world-models/",
+    "title": "What Is a World Model? | NVIDIA Glossary",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2601.07823",
+    "url": "https://huggingface.co/papers/2601.07823",
+    "title": "Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions",
+    "date": "2026-01-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2206.14176",
+    "url": "https://huggingface.co/papers/2206.14176",
+    "title": "DayDreamer: World Models for Physical Robot Learning",
+    "date": "2022-06-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2501.03575",
+    "url": "https://huggingface.co/papers/2501.03575",
+    "title": "Cosmos World Foundation Model Platform for Physical AI",
+    "date": "2025-01-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "bernard-grenat-2026",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "title": "State of World Models 2026: Taxonomy, Benchmarks and Open Challenges",
+    "date": "2026-01-01",
+    "source": "web"
+  }
+]

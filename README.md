@@ -64,10 +64,12 @@ Mỗi tệp "SINH VIÊN CÀI ĐẶT" là **pseudo-code chạy được** (import
 ## 4. Cài đặt
 
 ```bash
-python3 -m venv .venv && source .venv/bin/activate      # Python 3.11+
+python3 -m venv .venv
+source .venv/bin/activate                                # macOS/Linux, Python 3.11+
 pip install -r requirements.txt
 cp .env.example .env                                     # rồi điền khóa CỦA BẠN
 ```
+
 
 Bạn cần ba loại khóa (điền vào `.env`, **không bao giờ commit** `.env`):
 

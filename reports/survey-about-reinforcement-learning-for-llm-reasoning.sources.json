@@ -1,0 +1,98 @@
+[
+  {
+    "n": 1,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "2025-09-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "acm-2026-09-29",
+    "url": "https://dl.acm.org/doi/full/10.1145/3834858",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2026-09-29",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "sebastianraschka-rl-llm-2025",
+    "url": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "title": "The State of Reinforcement Learning for LLM Reasoning",
+    "date": "2025-04-19",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "deepseek-r1-nature-2025",
+    "url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+    "date": "2025-09-17",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "abdulhai25a",
+    "url": "https://proceedings.mlr.press/v267/abdulhai25a.html",
+    "title": "LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models",
+    "date": "2025-07-13",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2505.14552",
+    "url": "https://arxiv.org/abs/2505.14552",
+    "title": "KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation",
+    "date": "2025-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2411.13543",
+    "url": "https://arxiv.org/abs/2411.13543",
+    "title": "BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games",
+    "date": "2024-11-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2510.10541",
+    "url": "https://arxiv.org/abs/2510.10541",
+    "title": "Rethinking RL Evaluation: Can Benchmarks Truly Reveal Failures of RL Methods?",
+    "date": "2025-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2402.03046",
+    "url": "https://arxiv.org/abs/2402.03046",
+    "title": "Open RL Benchmark: Comprehensive Tracked Experiments for Reinforcement Learning",
+    "date": "2024-02-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "acl-2026",
+    "url": "https://aclanthology.org/2026.acl-long.1045.pdf",
+    "title": "A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions",
+    "date": "2025-08-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "2025-09-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2508.00410",
+    "url": "https://huggingface.co/papers/2508.00410",
+    "title": "Co-Reward: Self-supervised Reinforcement Learning for Large Language Model Reasoning via Contrastive Agreement",
+    "date": "2025-08-01",
+    "source": "hf-search"
+  }
+]
